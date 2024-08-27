@@ -16,8 +16,7 @@ This Python script uses OpenCV to detect the largest contour in any image, highl
 ## Requirements
 
 - Python 3.x
-- OpenCV ('pip install opencv-python')
-
+- OpenCV (`pip install opencv-python`)
 ## Usage
 
 1. Place your image at the specified path (`specify your image path in local setup`).
