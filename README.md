@@ -1,6 +1,6 @@
 # Region of Intrest (ROI) Extraction 
 
-# Image Contour Detection and Extraction
+## Image Contour Detection and Extraction
 
 This Python script uses OpenCV to detect the largest contour in any image, highlight it, and extract the region of interest (ROI). The script displays and saves the intermediate and final results.
 
