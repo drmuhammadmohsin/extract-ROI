@@ -1,4 +1,4 @@
-# Region of Intrest Extraction (extract-ROI)
+# Region of Intrest (ROI) Extraction 
 
 # Image Contour Detection and Extraction
 
